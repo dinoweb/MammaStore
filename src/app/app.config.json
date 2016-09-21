@@ -1,0 +1,14 @@
+{
+	"appname": "MammaStore",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "064C49A5-1759-499F-99D1-8518ABAC6F44",
+	"buyerid": null,
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
